@@ -1,0 +1,7 @@
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\bin\Debug\FarmLAnd Calculator.exe.config
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\bin\Debug\FarmLAnd Calculator.exe
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\bin\Debug\FarmLAnd Calculator.pdb
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\obj\Debug\FarmLAnd Calculator.csprojAssemblyReference.cache
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\obj\Debug\FarmLAnd Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\obj\Debug\FarmLAnd Calculator.exe
+C:\Users\Renee Abraham\source\repos\FarmLAnd Calculator\FarmLAnd Calculator\obj\Debug\FarmLAnd Calculator.pdb
